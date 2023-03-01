@@ -2,29 +2,28 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Hello Rails Back End\] ](#-hello-rails-back-end-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 # 📖 [Hello Rails Back End] <a name="about-project"></a>
 
-**[Hello Rails Back End]** is a back-end for [Hello React Front End App](https://github.com/karayamanemre/hello-react-front-end).
+**[Hello Rails Back End]** is a back-end for [Hello React Front End App](https://github.com/samuelmoiwa/hello-rails-backend).
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,7 +52,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Providing greeting messages for: [Hello React Front End App](https://github.com/karayamanemre/hello-react-front-end).
+- Providing greeting messages for: [Hello React Front End App](#).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,8 +91,7 @@ This will download and install all the required gems for the project.
 Next, you'll need to set up the database for the project. Run the following commands to create the database and run the migrations:
 
 ```sh
-  rails db:create
-  rails db:migrate
+  rails db:create db:migrate
 ```
 
 To load seed data into the database run the following command:
@@ -120,10 +118,12 @@ No tests included.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Emre Karayaman**
+👤 **Abdulai Samuel Moiwa**
 
-- GitHub: [Emre Karayaman](https://github.com/karayamanemre)
-- LinkedIn: [Emre Karayaman](https://www.linkedin.com/in/emre-karayaman-a7b45b243/)
+- GitHub: [@githubhandle](https://github.com/samuelmoiwa)
+- Twitter: [@twitterhandle](https://twitter.com/samuelmoiwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ing-abdulai-samuel-moiwa-726340142/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
