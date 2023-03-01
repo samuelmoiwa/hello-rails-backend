@@ -75,7 +75,7 @@ In order to run this project, you will need to have Ruby and Rails installed on 
 Once you have Ruby and Rails installed you can clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:karayamanemre/hello-rails-back-end.git
+  git clone https://github.com/samuelmoiwa/hello-rails-backend
 ```
 
 ### Install
